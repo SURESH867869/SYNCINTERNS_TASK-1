@@ -1,1 +1,1 @@
-# codsoft_task-1
+This is a classic Snake Game implemented using HTML, CSS, and JavaScript. It provides a fun and nostalgic gaming experience where players control a snake to eat food and grow longer while avoiding collisions with walls and the snake's own body.
